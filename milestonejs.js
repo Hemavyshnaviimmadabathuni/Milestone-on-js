@@ -8,7 +8,7 @@ class Car extends React.Component {
 }
 
 ReactDOM.render(<Car color="red"/>, document.getElementById('root'));
-[10:07 pm, 21/08/2022] Vaishnavi: import React from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom/client';
 
 function Hello(props) {
